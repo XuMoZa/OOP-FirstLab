@@ -1,0 +1,28 @@
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\bin\Debug\netcoreapp3.1\LabWork1.exe
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\bin\Debug\netcoreapp3.1\LabWork1.deps.json
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\bin\Debug\netcoreapp3.1\LabWork1.runtimeconfig.json
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\bin\Debug\netcoreapp3.1\LabWork1.runtimeconfig.dev.json
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\bin\Debug\netcoreapp3.1\LabWork1.dll
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\bin\Debug\netcoreapp3.1\LabWork1.pdb
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.csproj.AssemblyReference.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.AssemblyInfoInputs.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.AssemblyInfo.cs
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.csproj.CoreCompileInputs.cache
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.dll
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.pdb
+E:\IT&BSUIR\БГУИР\2 КУРС\4 сем\ООП\Лаба 1\LB1real\LabWork1\obj\Debug\netcoreapp3.1\LabWork1.genruntimeconfig.cache
+C:\Users\Acer\Desktop\OOP\bin\Debug\netcoreapp3.1\LabWork1.exe
+C:\Users\Acer\Desktop\OOP\bin\Debug\netcoreapp3.1\LabWork1.deps.json
+C:\Users\Acer\Desktop\OOP\bin\Debug\netcoreapp3.1\LabWork1.runtimeconfig.json
+C:\Users\Acer\Desktop\OOP\bin\Debug\netcoreapp3.1\LabWork1.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\OOP\bin\Debug\netcoreapp3.1\LabWork1.dll
+C:\Users\Acer\Desktop\OOP\bin\Debug\netcoreapp3.1\LabWork1.pdb
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.dll
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.pdb
+C:\Users\Acer\Desktop\OOP\obj\Debug\netcoreapp3.1\LabWork1.genruntimeconfig.cache
